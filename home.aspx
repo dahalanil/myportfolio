@@ -295,7 +295,13 @@ further mission of a company.
           </div>
         </div>
 
+          <h2 class="mb-2">Download Resume</h2>
+                    <a href="cv/AnilDahalcv.pdf" target="_blank" download>
+                        <i class="fas fa-file-pdf fa-10x" style="color:red;"></i>
+                        <div class="pt-3"><button style="background-color: DodgerBlue;border: none;color: white;padding: 12px 30px;cursor: pointer;font-size: 20px;" class="rounded"><i class="fa fa-download"></i> Download Pdf</button></div>
+                    </a>
       </div>
+
     </section><!-- End Resume Section -->
 
   <!-- ======= Contact Section ======= -->

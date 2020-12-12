@@ -80,6 +80,7 @@
     <Content Include="assets\vendor\typed.js\typed.min.js.map" />
     <Content Include="forms\contact.php" />
     <Content Include="Site1.Master" />
+    <Content Include="cv\AnilDahalcv.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
