@@ -1,0 +1,6 @@
+c:\users\anil\documents\visual studio 2013\Projects\portfolio\portfolio\bin\portfolio.dll.config
+c:\users\anil\documents\visual studio 2013\Projects\portfolio\portfolio\bin\portfolio.dll
+c:\users\anil\documents\visual studio 2013\Projects\portfolio\portfolio\bin\portfolio.pdb
+c:\users\anil\documents\visual studio 2013\Projects\portfolio\portfolio\obj\Debug\portfolio.dll
+c:\users\anil\documents\visual studio 2013\Projects\portfolio\portfolio\obj\Debug\portfolio.pdb
+c:\users\anil\documents\visual studio 2013\Projects\portfolio\portfolio\obj\Debug\portfolio.csprojResolveAssemblyReference.cache
